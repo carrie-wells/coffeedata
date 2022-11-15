@@ -1,0 +1,25 @@
+ul {
+  list-style-type: square;
+  background: #9e755a;
+  padding: 20px
+}
+
+ul li {
+  background: #b1937f;
+  color: #3b1f0d;
+  margin: 5px;
+}
+
+body {
+    background-color: rgb(223, 206, 191);
+}
+
+h1 {
+    color: #3b1f0d;
+    font-size: 2em
+}
+
+p {
+    color: #3b1f0d;
+    font-size: em
+}
